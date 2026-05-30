@@ -4,7 +4,7 @@ authors:
 - etienne-thoret
 - anna-montagnini
 date: 2026-07-07
-publishDate: 2026-06-28
+publishDate: 2026-05-29
 draft: false
 image:
   focal_point: Center
