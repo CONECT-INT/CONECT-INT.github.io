@@ -23,7 +23,8 @@ summary: '"INT workshop : All models are wrong… but some are useful ! when vis
 * Where: TBD (Xst floor), Institut de Neurosciences de la Timone (INT).
 * Organisers: Etienne Thoret, Anna Montagnini, Guillaume MAsson, LAurent Perrinet (INT, AMU/CNRS)
 
->  Nous organisons un workshop autour de la modélisation des systèmes sensoriels vision / audition le 7 juillet prochain. L'ambition de ce workshop est de mettre en lumière des travaux autour de la modélisation computationnelle en neuroscience et les interactions avec l'apprezntissage machine. Nous avons invité des chercheurs travaillant sur la modélisation de systèmes sensoriels, en particulier dans les domaines de la vision et de l'audition, et nous espérons que ce workshop permettra de stimuler les échanges entre les différentes communautés de recherche.
+>  Omnipresent in science, models are never more than imperfect analogies of natural phenomena. Models reduce, divide, simplify, or complexify a reality that is not always observable or measurable. Food for thought, models sometimes become theory, but they must never become dogma, lest they mislead us. In this sense, as George Box reminded us, “all models are wrong”! True—but the very nature of this falsifiability is that it helps us think more clearly about the world and better predict the phenomena that make it up. Whether biological, physical, ecological, or geological, models allow us to simulate, predict, and formulate new hypotheses, thereby pushing back the boundaries of knowledge.
+> The history of science has been nourished by these constant back-and-forth movements between models and observations, and it is in this sense that, although they are all wrong, they are indeed all useful. In this lecture series, we wish to highlight modeling as a central aspect of the scientific approach. For this first edition, we wanted to bring into dialogue research on the modeling of visual and auditory systems.
 
 # preliminary PROGRAM
 
@@ -31,13 +32,13 @@ summary: '"INT workshop : All models are wrong… but some are useful ! when vis
 
 ## Session 1. Grey things, gratings, both ? Moderation. Guillaume Masson
 * Ruben Coen-Cagli (Confirmed) Vision
-* Jennifer Lawlor (TBC) Audition
+* XXX YYY (TBC) Audition
 
 Coffee break
 
 ## Session 2. Neural oscillations are not real Moderation. Etienne Thoret
 * Benjamin Morillon (Confirmed) (Cons)
-* Anne-Lise Giraud (TBC) (Pros)
+* XXX YYY (TBC) (Pros)
 
 Lunch break
 
@@ -49,7 +50,7 @@ Coffee break
 
 ## Session 4. Deep representations are not so deep. Moderation. Laurent Perrinet
 * XXXX YYYY (TBC) (Audition)
-* Josephine Raugel (TBC) (Vision)
+* Josephine Raugel (Title TBC) (Vision)
 
 Apero
 
