@@ -37,7 +37,7 @@ Audition and vision are two fields of research that have always faced one anothe
 *Moderation. Guillaume Masson*
 
 - **11h00** | Ruben Coen-Cagli (**Confirmed**) Vision
-- **11h45** | Jennifer Lawlor (**TBC**) Audition
+- **11h45** | (**TBC**) Audition
 
 **12h30 | Lunch break**
 
@@ -52,7 +52,7 @@ Audition and vision are two fields of research that have always faced one anothe
 ## Session 3 | Deep representations are not so deep
 *Moderation. Laurent Perrinet*
 
-- **16h00** | Brice Bathellier (**TBC**) (Audition)
+- **16h00** |  (**TBC**) (Audition)
 - **16h45** | Josephine Raugel (**Confirmed**) (Vision)
 
 **17h30 | Closing words**
