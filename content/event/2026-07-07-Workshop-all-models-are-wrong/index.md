@@ -29,29 +29,32 @@ Audition and vision are two fields of research that have always faced one anothe
 
 # preliminary PROGRAM
 
-* Introduction. Etienne Thoret
+**10h | Welcome coffee**
 
-## Session 1. Grey things, gratings, both ? Moderation. Guillaume Masson
-* Ruben Coen-Cagli (Confirmed) Vision
-* XXX YYY (TBC) Audition
+**10h45 | Introduction** | Etienne Thoret
 
-Coffee break
+## Session 1 | Grey things, gratings, both ?
+*Moderation. Guillaume Masson*
 
-## Session 2. Neural oscillations are not real Moderation. Etienne Thoret
-* Benjamin Morillon (Confirmed) (Cons)
-* XXX YYY (TBC) (Pros)
+- **11h00** | Ruben Coen-Cagli (**Confirmed**) Vision
+- **11h45** | Jennifer Lawlor (**TBC**) Audition
 
-Lunch break
+**12h30 | Lunch break**
 
-## Session 3. Hearing faces and seeing voices. Moderation. Anna Montagnini
-* Pascal Belin (Confirmed) (Audition)
-* Fred Gosselin (Confirmed) (Vision)
+## Session 2 | Hearing faces and seeing voices
+*Moderation. Anna Montagnini*
 
-Coffee break
+- **14h00** | Pascal Belin (**Confirmed**) (Audition)
+- **14h45** | Frédéric Gosselin (**Confirmed**) (Vision)
 
-## Session 4. Deep representations are not so deep. Moderation. Laurent Perrinet
-* XXXX YYYY (TBC) (Audition)
-* Josephine Raugel (Title TBC) (Vision)
+**15h30 | Coffee break**
 
-Apero
+## Session 3 | Deep representations are not so deep
+*Moderation. Laurent Perrinet*
 
+- **16h00** | Brice Bathellier (**TBC**) (Audition)
+- **16h45** | Josephine Raugel (**Confirmed**) (Vision)
+
+**17h30 | Closing words**
+
+**18h00 | Refreshments**
