@@ -52,7 +52,7 @@ Audition and vision are two fields of research that have always faced one anothe
 ## Session 3 | Deep representations are not so deep
 *Moderation. Laurent Perrinet*
 
-- **16h00** |  (**TBC**) (Audition)
+- **16h00** | Brice Bathellier (**Confirmed**) (Audition)
 - **16h45** | Josephine Raugel (**Confirmed**) (Vision)
 
 **17h30 | Closing words**
