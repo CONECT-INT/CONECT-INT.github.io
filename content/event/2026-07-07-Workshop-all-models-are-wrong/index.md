@@ -22,7 +22,7 @@ Audition and vision are two fields of research that have always faced one anothe
 
 * When: Thursday July 7th 2026 ***14:00 to 18:00*** 
 * Where: salle [Henri Gastaut](https://fr.wikipedia.org/wiki/Henri_Gastaut) (ground floor), Institut de Neurosciences de la Timone (INT), 27 Boulevard Jean Moulin, 13005 Marseille](https://goo.gl/maps/MLpmsN9cd2N1Uv1L7).
-* Organisers: Etienne Thoret, Anna Montagnini, Guillaume MAsson, LAurent Perrinet (INT, AMU/CNRS)
+* Organisers: Etienne Thoret, Anna Montagnini, Guillaume Masson, Laurent Perrinet (INT, AMU/CNRS)
 
 >  Omnipresent in science, models are never more than imperfect analogies of natural phenomena. Models reduce, divide, simplify, or complexify a reality that is not always observable or measurable. Food for thought, models sometimes become theory, but they must never become dogma, lest they mislead us. In this sense, as George Box reminded us, “all models are wrong”! True—but the very nature of this falsifiability is that it helps us think more clearly about the world and better predict the phenomena that make it up. Whether biological, physical, ecological, or geological, models allow us to simulate, predict, and formulate new hypotheses, thereby pushing back the boundaries of knowledge.
 > The history of science has been nourished by these constant back-and-forth movements between models and observations, and it is in this sense that, although they are all wrong, they are indeed all useful. In this lecture series, we wish to highlight modeling as a central aspect of the scientific approach. For this first edition, we wanted to bring into dialogue research on the modeling of visual and auditory systems.
