@@ -36,24 +36,29 @@ Audition and vision are two fields of research that have always faced one anothe
 ## Session 1 | Grey things, gratings, both ?
 *Moderation. Guillaume Masson*
 
-- **11h00** | Ruben Coen-Cagli (**Confirmed**) Vision
-- **11h45** | (**TBC**) Audition
+- **11h00** | Ruben Coen-Cagli, Vision
+- **11h25** | Yves Boubenec, Audition
+- **11h50** | Jonathan Vacher, Vision
+- **12h15** | *Discussion*
 
 **12h30 | Lunch break**
 
 ## Session 2 | Hearing faces and seeing voices
 *Moderation. Anna Montagnini*
 
-- **14h00** | Pascal Belin (**Confirmed**) (Audition)
-- **14h45** | Frédéric Gosselin (**Confirmed**) (Vision)
+- **14h00** | Pascal Belin, Audition
+- **14h25** | Frédéric Gosselin, Vision
+- **14h50** | *Discussion*
 
 **15h30 | Coffee break**
 
 ## Session 3 | Deep representations are not so deep
 *Moderation. Laurent Perrinet*
 
-- **16h00** | Brice Bathellier (**Confirmed**) (Audition)
-- **16h45** | Josephine Raugel (**Confirmed**) (Vision)
+- **16h00** | Marie Plégat, Audition
+- **16h25** | Josephine Raugel, Vision    
+- **16h50** | Brice Bathellier, Audition
+- **17h15** | *Discussion*
 
 **17h30 | Closing words**
 
