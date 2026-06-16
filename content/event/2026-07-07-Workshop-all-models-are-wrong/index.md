@@ -14,8 +14,8 @@ projects: []
 tags:
 - events
 title: '2026-07-07-Workshop-all-models-are-wrong'
-subtitle: '"INT workshop : All models are wrong… but some are useful ! when vision meets audition to reinvent neuroscience"'
-summary: '"INT workshop : All models are wrong… but some are useful ! when vision meets audition to reinvent neuroscience"'
+subtitle: '"INT/CONECT workshop : All models are wrong… but some are useful ! when vision meets audition to reinvent neuroscience"'
+summary: '"INT/CONECT workshop : All models are wrong… but some are useful ! when vision meets audition to reinvent neuroscience"'
 ---
 
 Audition and vision are two fields of research that have always faced one another. From psychophysics to cognitive neuroscience, the discoveries and models of one have often preceded those of the other, without it ever being entirely clear which came first—the chicken or the egg. The day will focus on three different aspects of visual and auditory perception and how we can model them, what are common, what are different, what is better understood by one and less by the other, and in the end how we could better understand both: the perception of textures, the perception of voices and faces, and the hierarchical nature (or not) of the visual and auditory systems.
