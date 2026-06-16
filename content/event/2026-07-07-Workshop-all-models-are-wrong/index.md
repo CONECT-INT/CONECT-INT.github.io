@@ -29,16 +29,15 @@ Audition and vision are two fields of research that have always faced one anothe
 
 # Program
 
-**10h | Welcome coffee**
+**10h30 | Welcome coffee**
 
-**10h45 | Introduction** | Etienne Thoret
+**11h00 | Introduction** | Etienne Thoret
 
-## Session 1 | Grey things, gratings, both ?
+## Session 1 | Grey things, gratings, both?
 *Moderation. Guillaume Masson*
 
-- **11h00** | Ruben Coen-Cagli, Vision
-- **11h25** | Yves Boubenec, Audition
-- **11h50** | Jonathan Vacher, Vision
+- **11h25** | Ruben Coen-Cagli, Vision
+- **11h50** | Yves Boubenec, Audition
 - **12h15** | *Discussion*
 
 **12h30 | Lunch break**
@@ -50,16 +49,23 @@ Audition and vision are two fields of research that have always faced one anothe
 - **14h25** | Frédéric Gosselin, Vision
 - **14h50** | *Discussion*
 
-**15h30 | Coffee break**
+**15h05 | Coffee break**
 
-## Session 3 | Deep representations are not so deep
+## Session 3 | Hearing faces and seeing voices
+*Moderation. Etienne Thoret*
+
+- **15h30** | Jonathan Vacher, Vision
+- **15h45** | HiJee Kang, Audition
+- **16h10** | *Discussion*
+
+## Session 4 | Deep representations are not so deep
 *Moderation. Laurent Perrinet*
 
-- **16h00** | Marie Plégat, Audition
-- **16h25** | Josephine Raugel, Vision    
-- **16h50** | Brice Bathellier, Audition
-- **17h15** | *Discussion*
+- **16h25** | Marie Plégat, Audition
+- **16h50** | Josephine Raugel, Vision    
+- **17h15** | Brice Bathellier, Audition
+- **17h40** | *Discussion*
 
-**17h30 | Closing words**
+**17h50 | Closing words**
 
 **18h00 | Refreshments**
