@@ -13,7 +13,7 @@ image:
 projects: []
 tags:
 - events
-title: '2026-07-07-Workshop-all-models-are-wrong'
+title: '2026-07-07 Workshop: "All models are wrong… but some are useful !"'
 subtitle: '"INT/CONECT workshop : All models are wrong… but some are useful ! when vision meets audition to reinvent neuroscience"'
 summary: '"INT/CONECT workshop : All models are wrong… but some are useful ! when vision meets audition to reinvent neuroscience"'
 ---
