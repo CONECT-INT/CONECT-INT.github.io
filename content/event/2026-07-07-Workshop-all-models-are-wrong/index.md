@@ -74,4 +74,5 @@ Audition and vision are two fields of research that have always faced one anothe
 
 This workshop is open to researchers, students, and anyone interested in computational and cognitive neuroscience. No registration fee is required, but please contact the organizers if you wish to attend by filling this form: https://framaforms.org/intconect-workshop-all-models-are-wrong-but-some-are-useful-1781615391
 For further inquiries, please contact the organizerts by e-mail.
+
 This workshop has received support from the French government under the Programme « Investissements d’Avenir », Initiative d’Excellence d’Aix-Marseille Université via A*Midex funding (AMX-19-IET-004), and ANR (ANR-17-EURE-0029).
