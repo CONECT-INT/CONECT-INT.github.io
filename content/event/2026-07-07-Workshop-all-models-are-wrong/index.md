@@ -36,7 +36,7 @@ Audition and vision are two fields of research that have always faced one anothe
 ## Session 1 | Grey things, gratings, both?
 *Moderation: Guillaume Masson*
 
-- **11h25** | Ruben Coen-Cagli, Vision
+- **11h25** | Ruben Coen-Cagli, Vision : TBA
 - **11h50** | Yves Boubenec, Audition : Cross-species comparison of speech cortical representations
 - **12h15** | *Discussion*
 
@@ -45,7 +45,7 @@ Audition and vision are two fields of research that have always faced one anothe
 ## Session 2 | Hearing faces and seeing voices
 *Moderation: Anna Montagnini*
 
-- **14h00** | Pascal Belin, Audition
+- **14h00** | Pascal Belin, Audition : Modelling cerebral voice processing
 - **14h25** | Frédéric Gosselin, Vision : Individual differences in face recognition abilities
 - **14h50** | *Discussion*
 
@@ -54,8 +54,8 @@ Audition and vision are two fields of research that have always faced one anothe
 ## Session 3 | Finding paths through randomness
 *Moderation: Etienne Thoret*
 
-- **15h30** | Jonathan Vacher, Vision
-- **15h45** | HiJee Kang, Audition
+- **15h30** | Jonathan Vacher, Vision : TBA
+- **15h45** | HiJee Kang, Audition : Rapid learning of complex sounds and underlying cortical mechanisms
 - **16h10** | *Discussion*
 
 ## Session 4 | Deep representations are not so deep
@@ -82,8 +82,17 @@ This workshop has received support from the French government under the Programm
 * Yves Boubenec (Ecole Normale Supérieure, Laboratoire des Systèmes Perceptifs) : Cross-species comparison of speech cortical representations
 > Little is known about how neural representations of speech differ across species, or how they are shaped by developmental exposure. To isolate sensitivity for higher-order structure, we synthesized sounds whose statistics are matched to natural sounds under a spectrotemporal model; because they are otherwise unconstrained, these synthetics lack the salient higher-order structure of speech. Ferrets distinguished natural from synthetic sounds behaviorally, through sound-evoked facial motion and pupil dynamics. Using functional ultrasound imaging, we then measured ferret auditory cortical responses to the same sounds previously tested in humans. Ferrets showed frequency and modulation tuning similar to humans, but whereas humans respond substantially more to natural than synthetic speech in non-primary regions, ferret responses were closely matched throughout primary and non-primary cortex, even for conspecific vocalizations. Finally, we ask whether higher-order sensitivity can be induced by experience: preliminary evidence shows that rearing ferret kits with early speech exposure paired with positive-valence experiences (feeding, water, play) enhances representations of natural over matched-synthetic sounds in non-primary ventral fields, scaling with exposure duration. Together, these results suggest that higher-order cortical sensitivity to speech can be shaped by early, behaviorally relevant experience.
 
+* HiJee Kang (Johns Hopkins University) : Rapid learning of complex sounds and underlying cortical mechanisms
+> Our ability to rapidly encode new auditory input is essential to identify meaningful sounds in complex acoustic environments, yet the neural mechanisms that support the formation of such auditory memories remain poorly understood. By combining human psychophysics and mouse neurophysiology, the presented body of works will examine how rapid auditory learning shapes cortical representations of complex sounds.
+> Using a behavioural paradigm designed to mimic acoustic scenes, we presented listeners with a series of random acoustic patterns in which a specific sound pattern re-occurred intermittently across trials. Human listeners showed rapid and implicit learning of these recurring sounds, improving performance on an auditory task that did not require explicit detection of the recurrences, demonstrating that robust auditory memory can form after only a few exposures. 
+> To investigate the cortical basis of this process, we performed in vivo two-photon calcium imaging in the auditory cortex of passively listening, awake mice. These recordings revealed neural adaptation of population responses to recurring complex sounds, suggesting the emergence of sparse cortical representations for recurring sound patterns. To directly examine how functionally interconnected neurons coordinate during sound processing, we combined in vivo two-photon imaging with holographic optogenetic stimulation of a subset of co-tuned neurons. This approach revealed that functionally connected neurons dynamically adjust their activity to rebalance network-level responses during target sound processing, and that these ensembles are widely distributed across auditory cortex rather than tightly localised. Together, these findings suggest that effective auditory perception emerges from sparse cortical representations and is shaped by adaptive interactions across distributed neuronal networks.
+
+
 * Frédéric Gosselin (Université de Montréal) : Individual differences in face recognition abilities
 > Abilities for face recognition vary greatly even among neurologically typical individuals. At one end of the spectrum, developmental prosopagnosics show great difficulty recognizing faces, despite not having sustained any brain injuries. At the other end of the spectrum, super-recognizers easily recognize faces they have not seen in years, even if these faces have physically changed in a substantial manner. We recently characterised the brain computations of participants of various face recognition abilities using high-density electroencephalographic signals and a combination of behavioural tests, artificial neural network models, and machine learning analyses. We found that individual face recognition ability can be decoded from brain activity in an extended temporal interval for face and non-face objects. We show that both visual and semantic brain computations contribute to these individual differences. Understanding how perceptual mechanisms are linked with individual abilities can offer important and straightforward insights for improving face processing in both individuals with poor face recognition abilities and people whose jobs require strong face processing ability.
+
+* Pascal Belin (Institut de Neurosciences de la Timone, Aix-Marseille Université) : Modelling cerebral voice processing
+> Voices are information rich “auditory faces” that our brain – and that of non-human primates – is expert at decoding. Functional MRI studies over two decades have provided evidence of areas of auditory cortex selectively activated by voices  - the ‘temporal voice areas” (TVAs ) – analogous to the Face selective areas of visual cortex. More recently, homologous areas have been observed in the brain of macaques and marmosets, suggesting an evolutionary conserved ‘voice patch system’. How neuronal activity in these voice patches encode and transform voice information remains largely unexplored. It can be modelled using acoustical, theoretical, bio-inspired or AI-generated models. I will present examples drawn from primate fMRi and macaque fMRi-guided electrophysiology. This research sheds crucial light on the evolutionary foundations of human voice perception, informing future brain–machine interface technologies, including cortical implants designed to restore or enhance speech and voice perception.
 
 * Brice Bathellier (Institut de l'Audition, Institut Pasteur) : A biomimetic deep encoder for auditory restoration by cortical stimulation
 > Neurostimulation is the main strategy for treating profound deafness1. However, current devices, including cochlear or auditory brainstem implants, have a limited information throughput, which impacts restored perception and quality of life. These limits are due to the low number of electrical contacts providing independent information in the small target structures. An alternative strategy is to target the auditory cortex, a structure large enough to place hundreds to thousands of electrodes, and whose stimulation produces sound perceptions. However, efficient encoding algorithms have been missing to unlock the potential of cortical stimulation. Here, we introduce Braincodec, a deep neural network architecture that optimizes stimulation patterns of an auditory cortical implant while minimizing information loss, aligning with the spatial, temporal, and high-level properties of the auditory cortex neural code. Braincodec operates online and requires only a few hundred electrodes to transmit the level of acoustic details experienced in natural hearing which are inaccessible to cochlear implants. Moreover, when tested in mice with an auditory cortical implant prototype, Braincodec produced precise perceptions. Therefore, Braincodec enables the design of cortical implants with a high information throughput, overcoming the limitations of cochlear implants, with a generic framework applicable to other sensory modalities.
