@@ -36,7 +36,7 @@ Audition and vision are two fields of research that have always faced one anothe
 ## Session 1 | Grey things, gratings, both?
 *Moderation: Guillaume Masson*
 
-- **11h25** | Ruben Coen-Cagli, Vision : TBA
+- **11h25** | Ruben Coen-Cagli, Vision : Testing theories of segment–based neural representation in macaque visual cortex
 - **11h50** | Yves Boubenec, Audition : Cross-species comparison of speech cortical representations
 - **12h15** | *Discussion*
 
@@ -54,7 +54,7 @@ Audition and vision are two fields of research that have always faced one anothe
 ## Session 3 | Finding paths through randomness
 *Moderation: Etienne Thoret*
 
-- **15h30** | Jonathan Vacher, Vision : TBA
+- **15h30** | Jonathan Vacher, Vision : Bayes vs Thurstone: a Giants Fight
 - **15h45** | HiJee Kang, Audition : Rapid learning of complex sounds and underlying cortical mechanisms
 - **16h10** | *Discussion*
 
@@ -79,8 +79,14 @@ This workshop has received support from the French government under the Programm
 
 # Proceedings - full program with abstracts
 
+* Ruben Coen-Cagli (Albert Einstein College of Medicine, Bronx NY) : Testing theories of segment–based neural representation in macaque visual cortex
+> Segmentation is the process of grouping image features to form perceptual objects and segmenting those objects from each other. Visual cues related to image segmentation influence single neuron firing, as shown in primary visual cortex (V1) neurons. However, segment–specific effects on population V1 activity remain unknown. I will present a normative theory that build on existing frameworks to explain population firing through probabilistic inference about latent causes. My lab has recently proposed a probabilistic model of human segment perception, in which the inferences of image features and of image segments are coupled and proceeds iteratively (Biswas et al., 2026, bioRxiv). We have now extended the model to generate predictions for neural activity in visual cortical neurons. The model qualitatively explains single–neuron modulation by segments and predicts how image segments modulate pairwise covariability and population-level coordination. I will describe those predictions and provide initial empirical support with data from areas V1 and V4 of one awake macaque. This work offers a new theory of segment–based image encoding in visual cortex that predicts highly flexible, segment–dependent neuronal interactions. This is an important first step towards understanding the distributed neural population representation of natural scenes.
+
 * Yves Boubenec (Ecole Normale Supérieure, Laboratoire des Systèmes Perceptifs) : Cross-species comparison of speech cortical representations
 > Little is known about how neural representations of speech differ across species, or how they are shaped by developmental exposure. To isolate sensitivity for higher-order structure, we synthesized sounds whose statistics are matched to natural sounds under a spectrotemporal model; because they are otherwise unconstrained, these synthetics lack the salient higher-order structure of speech. Ferrets distinguished natural from synthetic sounds behaviorally, through sound-evoked facial motion and pupil dynamics. Using functional ultrasound imaging, we then measured ferret auditory cortical responses to the same sounds previously tested in humans. Ferrets showed frequency and modulation tuning similar to humans, but whereas humans respond substantially more to natural than synthetic speech in non-primary regions, ferret responses were closely matched throughout primary and non-primary cortex, even for conspecific vocalizations. Finally, we ask whether higher-order sensitivity can be induced by experience: preliminary evidence shows that rearing ferret kits with early speech exposure paired with positive-valence experiences (feeding, water, play) enhances representations of natural over matched-synthetic sounds in non-primary ventral fields, scaling with exposure duration. Together, these results suggest that higher-order cortical sensitivity to speech can be shaped by early, behaviorally relevant experience.
+
+* Jonathan Vacher (MAP5, Université de Paris) : Bayes vs Thurstone: a Giants Fight
+> How should we infer perceptual scales from behavioral judgments? Classical Thurstonian models explain discrimination through the geometry of an internal sensory scale: stimuli are encoded with noise, and choices reveal distances along that scale. Bayesian observer models add another ingredient: the brain may decode noisy measurements using prior expectations about the stimulus world. In this talk, I will compare these two views in a common probabilistic framework, using visual tasks such as two-alternative forced choice and maximum likelihood difference scaling. The goal is to clarify what each model assumes, what it predicts, and what can actually be inferred from behavioral data. I will show how random stimulus variability helps separate geometry from Bayesian decoding, and why this distinction matters for estimating perceptual representations. 
 
 * HiJee Kang (Johns Hopkins University) : Rapid learning of complex sounds and underlying cortical mechanisms
 > Our ability to rapidly encode new auditory input is essential to identify meaningful sounds in complex acoustic environments, yet the neural mechanisms that support the formation of such auditory memories remain poorly understood. By combining human psychophysics and mouse neurophysiology, the presented body of works will examine how rapid auditory learning shapes cortical representations of complex sounds.
