@@ -1,8 +1,8 @@
 ---
 authors:
 - bjorg-kilavik
-date: 2026-11-02 14:00:00
-publishDate: 2026-09-25 15:00:00
+date: 2026-11-02 15:00:00
+publishDate: 2026-09-25 08:00:00
 draft: false
 image:
   focal_point: Center
