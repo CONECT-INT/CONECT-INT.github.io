@@ -1,0 +1,45 @@
+{{ $src := .Get "path" }}
+{{ $delimiter := .Get "delimiter" | default "," }}
+{{ $useHeaderRow := (eq (lower (.Get "header")) "true") | default true }}
+{{ $caption := .Get "caption" }}
+
+{{ $is_remote := strings.HasPrefix $src "http" }}
+{{ if not $is_remote }}
+  {{ $src = path.Join "content" $.Page.File.Dir $src }}
+{{ end }}
+
+{{ $csv := "" }}
+{{ if $is_remote }}
+  {{ with try (resources.GetRemote $src) }}
+    {{ with .Err }}
+      {{ errorf "Unable to retrieve CSV file %q: %s" $src . }}
+    {{ else with .Value }}
+      {{ $csv = .Content }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ $csv = readFile $src }}
+{{ end }}
+{{ $rows := transform.Unmarshal (dict "format" "csv" "delimiter" $delimiter) $csv }}
+
+<table class="table">
+  {{ if $useHeaderRow }}
+    {{ $headerRow := index $rows 0 }}
+    {{ $rows = after 1 $rows }}
+    <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+  {{ end }}
+  {{ range $rows }}
+    <tr>
+      {{ range . }}
+        {{ if (findRE "^\\d+$" .) }}
+          <td data-table-dtype="number">{{ . }}</td>
+        {{ else }}
+          <td data-table-dtype="text">{{ . | markdownify | emojify }}</td>
+        {{ end }}
+      {{ end }}
+    </tr>
+  {{ end }}
+  {{ if $caption }}
+    <caption>{{ $caption | markdownify | emojify }}</caption>
+  {{ end }}
+</table>

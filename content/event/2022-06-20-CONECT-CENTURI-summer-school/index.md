@@ -9,9 +9,6 @@ slides: "2022-06-20-CONECT-CENTURI-summer-school"
 ---
 
 # Title: Neural computation through population dynamics
-
-{{< tweet user="laurentperrinet" id="1538893493828997123" >}}
-
 {{% callout note %}}
 The summer school is now over! You can check the program of the [summer school](https://centuri-livingsystems.org/centuri-summer-school-2022/) (June 20 - July 01, 2022)!
 {{% /callout %}}
