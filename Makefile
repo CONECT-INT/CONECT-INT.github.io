@@ -16,12 +16,16 @@ push: pages
 deploy: push
 	cd public; git checkout main ; git pull ; git add . ; git commit -m "Build website" -a ; git push origin main
 
+test:
+# 	hugo --gc --cleanDestinationDir
+	hugo server --gc --disableFastRender --renderToMemory
+
 clean:
-	# rm -fr  $(TMPDIR)/hugo_cache
+# 	rm -fr  $(TMPDIR)/hugo_cache
 	hugo mod clean --all
 	hugo mod tidy
 	hugo mod get -u ./...
-	hugo --gc
-	hugo --cleanDestinationDir
-	hugo --debug
+# 	hugo --gc
+# 	hugo --cleanDestination-dir
+# 	hugo --debug
 	
