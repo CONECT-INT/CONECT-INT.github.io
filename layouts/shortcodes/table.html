@@ -10,12 +10,8 @@
 
 {{ $csv := "" }}
 {{ if $is_remote }}
-  {{ with try (resources.GetRemote $src) }}
-    {{ with .Err }}
-      {{ errorf "Unable to retrieve CSV file %q: %s" $src . }}
-    {{ else with .Value }}
-      {{ $csv = .Content }}
-    {{ end }}
+  {{ with resources.GetRemote $src }}
+    {{ $csv = .Content }}
   {{ end }}
 {{ else }}
   {{ $csv = readFile $src }}
